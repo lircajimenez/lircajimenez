@@ -1,4 +1,19 @@
-### Hi there 👋
+# <Hello, world <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> >
+
+---
+
+## 🧰 Skills
+
+### 💅🏾 Front-end
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux logo" width="50" height="50" />
+<img src="file:///Users/aducoeur/Downloads/styled-components-1.svg" alt="logo" width="50" height="50" />
+<img src="" alt="logo" width="50" height="50" />
+<img src="" alt="logo" width="50" height="50" />
+<img src="" alt="logo" width="50" height="50" />
 
 <!--
 **lircajimenez/lircajimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
