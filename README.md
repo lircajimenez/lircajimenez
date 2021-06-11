@@ -1,6 +1,14 @@
-# <Hello, world!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> >
+![Text in neon](https://user-images.githubusercontent.com/78028056/121724724-470fab80-cab6-11eb-85d8-60f08ea61b72.jpg)
 
 ---
+
+# <div align="center"> <Hello, world!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> > </div>
+
+---
+
+## About me:
+
+* Fullstack web developer living in Montreal.
 
 ## 🧰 Skills
 
