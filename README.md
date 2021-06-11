@@ -2,24 +2,22 @@
 
 ---
 
-# <div align="center"> <Hello, world!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> > </div>
-
----
-
-## About me:
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About me:
 
 ```javascript
 
 const person = {
   name: 'Lirca',
-  role: 'Fullstack web developer',
   location: 'Montreal',
+  role: 'Fullstack web developer',
   education: 'Concordia University bootcamps',
   hobbies: ['photography', 'travel', 'contemplate sunsets'],
   currentFocus: 'keep learning',
   }
 
 ```
+
+---
 
 ## 🧰 Skills
 
