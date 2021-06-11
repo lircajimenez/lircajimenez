@@ -8,7 +8,18 @@
 
 ## About me:
 
-* Fullstack web developer living in Montreal.
+```javascript
+
+const person = {
+  name: 'Lirca',
+  role: 'Fullstack web developer',
+  location: 'Montreal',
+  education: 'Concordia University bootcamps',
+  hobbies: ['photography', 'travel', 'contemplate sunsets'],
+  currentFocus: 'keep learning',
+  }
+
+```
 
 ## 🧰 Skills
 
