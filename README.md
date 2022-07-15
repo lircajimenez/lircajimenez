@@ -6,13 +6,16 @@
 
 ```javascript
 
-const person = {
-  name: 'Lirca',
-  location: 'Montreal',
-  role: 'Fullstack web developer',
+const me = {
+  name: 'Lirca Jiménez',
+  dob: new Date('1990.01.03'),
+  location: 'Montréal, Canada',
+  job: 'Fullstack web developer',
   education: 'Concordia University bootcamps',
   hobbies: ['photography', 'travel', 'contemplate sunsets'],
-  currentFocus: 'keep learning',
+  languages: ['spanish', 'english', 'french'],
+  learningNewSkills: true,
+  currentFocus: 'Gatsby',
   }
 
 ```
