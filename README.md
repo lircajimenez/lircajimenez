@@ -10,7 +10,10 @@ const me = {
   name: 'Lirca Jiménez',
   dob: new Date('1990.01.03'),
   location: 'Montréal, Canada',
-  job: 'Fullstack web developer',
+  job: {
+    company: 'Small Door Veterinary',
+    role: 'Junior Front-End Developer',
+    },
   education: 'Concordia University bootcamps',
   hobbies: ['photography', 'travel', 'contemplate sunsets'],
   languages: ['spanish', 'english', 'french'],
